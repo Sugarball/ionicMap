@@ -1,0 +1,27 @@
+/* Empty. Add your own CSS if you like */
+.selected {
+    fill : #F08080;
+}
+.storeInfo {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+svg {
+
+    overflow:  scroll !important;
+    touch-action: initial !important;
+    -webkit-user-select: initial !important;
+    -webkit-user-drag: initial !important;
+
+    -moz-user-select: initial !important;
+    -moz-user-drag: initial !important;
+
+    -o-user-select: initial !important;
+    -o-user-drag: initial !important;
+
+    user-select: initial !important;
+    user-drag: initial !important;
+
+}
